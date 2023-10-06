@@ -1,6 +1,5 @@
 # WAYFARER
 
-Project Wayfarer is a city blog site that allows users to 
 ## Contents:
 
 
